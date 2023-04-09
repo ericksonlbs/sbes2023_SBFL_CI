@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dotnet-sfl-tool": {
+      "commandName": "Project",
+      "commandLineArgs": "-w \"C:\\git\\normalizedByClass\" -p \"C:\\Users\\erick\\OneDrive\\Mestrado USP - Projeto\\Experimento\\log-2022-11-28_11-04-30\" -o class"
+    }
+  }
+}
